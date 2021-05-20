@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    background: linear-gradient(#425df5 0%, #0dffdb 100%);
+    background-repeat: no-repeat;
+}
+
+.line {
+    width: 70px;
+    height: 6px;
+    color: #000;
+    margin: 8px auto;
+}
